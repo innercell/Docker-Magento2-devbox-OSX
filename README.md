@@ -3,7 +3,7 @@
 
 <h5 align="center">Install Magento 2 Community in Docker by running one line of code.</h5>
 	Are you tired of looking for a way to deploy Magento 2 into Docker?
-	Feel free to clone/fork/edit this build I've found hidden behind login pages from Magento website.
+	<br/>Feel free to clone/fork/edit this build I've found hidden behind login pages from Magento website.
 
 	Source: 
 	https://magento.com/tech-resources/downloads/magento/downloadDocker/
